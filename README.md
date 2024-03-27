@@ -1,8 +1,12 @@
-# React + Vite
+# TicTacToe
+Simple TicTacToe game built with React 18 & Vite. That project was chosen to learn React, React hooks/custom hooks and checking winner based on winning conditions through an array.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 2024-03-27 211426](https://github.com/gneo0/TicTacToe/assets/119285103/fbc245b4-4466-4c19-80f1-f4169c8ee8ff)
 
-Currently, two official plugins are available:
+## Technologies
+Project was created with:
+* React 18
+* Vanilla CSS
+* Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Watch here live [demo](https://tictactoe-242703.netlify.app/)
